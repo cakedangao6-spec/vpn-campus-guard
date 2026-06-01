@@ -1,0 +1,13 @@
+﻿config.json
+*.log
+*.bak
+FlClash/
+*.exe
+.reasonix/
+profiles/
+subscriptions/
+*.yaml
+*.yml
+logs/
+.cache/
+*.tmp

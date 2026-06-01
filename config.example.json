@@ -1,0 +1,9 @@
+﻿{
+  "campus_wifi_prefix": "CAMPUS_WIFI_PREFIX_HERE",
+  "vpn_exe_path": "C:\\Path\\To\\YourVpnClient.exe",
+  "vpn_process_name": "YourVpnClient",
+  "log_path": "logs\\campus-guard.log",
+  "poll_interval_seconds": 2,
+  "mutex_name": "Global\\CampusVpnGuard",
+  "auto_start_vpn_when_off_campus": true
+}
