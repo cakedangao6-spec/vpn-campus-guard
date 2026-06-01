@@ -1,5 +1,7 @@
 ﻿# VPN Campus Guard
 
+English | [简体中文](README.zh-CN.md)
+
 A Windows PowerShell sample that detects the current WiFi environment and controls a user-configured VPN client. It is designed for cases where a VPN client should be closed automatically when the computer connects to a protected campus-style WiFi network.
 
 This repository does not include any VPN client, account, profile, node list, or private configuration. Install your own VPN client separately and fill in your own local settings.
